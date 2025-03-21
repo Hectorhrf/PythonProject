@@ -2,7 +2,7 @@ import math
 import random
 
 #1. len para mirar la longitud de una cadena o string
-nombre = "Bruno"
+nombre = "Hector"
 print("Longitud del nombre: " , len(nombre))
 
 #2. Upper y Lower para convertir en mayusculas y minusculas
@@ -91,6 +91,6 @@ dato = 9.98
 print("tipo de dato: ", type(dato))
 
 #20. Combinar cadenas y variables en un print
-nombreprofe = "Mario"
-edad = 32
-print(f"Hola soy {nombreprofe} y tengo {edad} años")
+nombrealumno = "Hector"
+edad = 19
+print(f"Hola soy {nombrealumno} y tengo {edad} años")
