@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f727a385-c5c3-4a52-af20-77b8bd3fede9" name="Changes" comment="Clases">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clases/Clase3/Clase3 ejercicios.py" beforeDir="false" afterPath="$PROJECT_DIR$/Clases/Clase3/Clase3 ejercicios.py" afterDir="false" />
-    </list>
+    <list default="true" id="f727a385-c5c3-4a52-af20-77b8bd3fede9" name="Changes" comment="Clase 3 ejercicios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +80,7 @@
       <workItem from="1742580434311" duration="3000" />
       <workItem from="1742580559750" duration="12000" />
       <workItem from="1742581726615" duration="303000" />
-      <workItem from="1742638710637" duration="2469000" />
+      <workItem from="1742638710637" duration="2938000" />
     </task>
     <task id="LOCAL-00001" summary="Clases">
       <option name="closed" value="true" />
@@ -141,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742582019666</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Clase 3 ejercicios">
+      <option name="closed" value="true" />
+      <created>1742644013682</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742644013682</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +156,8 @@
     <MESSAGE value="Clase 4" />
     <MESSAGE value="Clase 3" />
     <MESSAGE value="Clases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clases" />
+    <MESSAGE value="Clase 3 ejercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase 3 ejercicios" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$Clase3.coverage" NAME="Clase3 Coverage Results" MODIFIED="1742580229510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases/Clase3" />
