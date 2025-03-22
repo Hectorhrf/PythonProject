@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f727a385-c5c3-4a52-af20-77b8bd3fede9" name="Changes" comment="Clases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clases/Clase3/Clase3 ejercicios.py" beforeDir="false" afterPath="$PROJECT_DIR$/Clases/Clase3/Clase3 ejercicios.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Clase3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Clase4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Clase3 ejercicios.executor": "Run",
+    "Python.Clase3.executor": "Run",
+    "Python.Clase4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,6 +82,8 @@
       <workItem from="1742573722007" duration="5133000" />
       <workItem from="1742580434311" duration="3000" />
       <workItem from="1742580559750" duration="12000" />
+      <workItem from="1742581726615" duration="303000" />
+      <workItem from="1742638710637" duration="2469000" />
     </task>
     <task id="LOCAL-00001" summary="Clases">
       <option name="closed" value="true" />
@@ -121,7 +125,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742580401209</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Clases">
+      <option name="closed" value="true" />
+      <created>1742581743159</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742581743159</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Clases">
+      <option name="closed" value="true" />
+      <created>1742582019666</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742582019666</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +155,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$Clase3.coverage" NAME="Clase3 Coverage Results" MODIFIED="1742580229510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases/Clase3" />
+    <SUITE FILE_PATH="coverage/PythonProject$Clase3_ejercicios.coverage" NAME="Clase3 ejercicios Coverage Results" MODIFIED="1742643508666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases/Clase3" />
     <SUITE FILE_PATH="coverage/PythonProject$Clase4.coverage" NAME="Clase4 Coverage Results" MODIFIED="1742580106293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases/Clase4" />
   </component>
 </project>
