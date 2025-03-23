@@ -94,24 +94,24 @@ verdadero = True
 falso = False
 suma = verdadero + falso
 resta = verdadero - falso
-multiplicacion = verdadero * 5
-multiplicacion_falsa = falso * 10
+multiplicacion = verdadero * 2
+multiplicacion_falsa = falso * 2
 print(suma, resta, multiplicacion, multiplicacion_falsa)
 
 #Ejercicio 4
 #Extracción de caracteres en una cadena
-palabra = "Modulo profesional optativo"
-print(palabra[:3])
-print(palabra[-3:])
-print(palabra[::3])
+cadena = "Modulo profesional optativo"
+print(cadena[:3])
+print(cadena[-3:])
+print(cadena[::3])
 
 #Ejercicio 5
 #Conversión de tipos y evaluación booleana
-num = 100
+num = 49
 num_cadena = str(num)
 print(num_cadena, type(num_cadena))
 
-cadena_num = "50"
+cadena_num = "10"
 num_convertido = int(cadena_num)
 print(num_convertido, type(num_convertido))
 print(bool(""))
