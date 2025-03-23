@@ -107,7 +107,7 @@ nombre = input("Escribe tu nombre: ")
 if nombre in invitados:
     print(f"Bienvenido, {nombre}! Estás en la posición {invitados.index(nombre) + 1}.")
 else:
-    print("Lo siento, no estás en la lista.")
+    print("No estas en la lista")
 
 
 #Ejercicio 9 Manipulacion de nombres:
