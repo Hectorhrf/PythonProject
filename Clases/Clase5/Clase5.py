@@ -23,7 +23,7 @@ print(persona)
 #Ejercicio 4
 #Cambia la edad de la persona a 31.
 
-persona["edad"] = 20
+persona["edad"] = 31
 print(persona)
 
 #Ejercicio 5
