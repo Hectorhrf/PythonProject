@@ -27,13 +27,14 @@ print(int(False))
 #Propiedades de las cadenas
 
 nombre = "Hector"
-print(nombre[0])
+
 print(nombre[-1])
-print(nombre[4])
 print(nombre[-2])
 print(nombre[-3])
 print(nombre[-4])
 print(nombre[-5])
+print (nombre[-6])
+
 
 #Ejercicio 5
 #Operaciones con cadenas y números
@@ -79,19 +80,12 @@ print(mayor, menor, igual, diferente)
 #Ejercicio 2
 #Propiedades y manipulación de cadenas
 
-frase = "Python es divertido"
+frase = "Estoy usando python"
 print(len(frase))
 print(frase.upper())
 print(frase.lower())
 print(frase.count("o"))
-verdadero = True
-falso = False
 
-suma = verdadero + falso
-resta = verdadero - falso
-multiplicacion = verdadero * 5
-multiplicacion_falsa = falso * 10
-print(suma, resta, multiplicacion, multiplicacion_falsa)
 
 #Ejercicio 3
 #Operaciones matemáticas con números y booleanos
@@ -106,10 +100,10 @@ print(suma, resta, multiplicacion, multiplicacion_falsa)
 
 #Ejercicio 4
 #Extracción de caracteres en una cadena
-palabra = "Programación"
+palabra = "Modulo profesional optativo"
 print(palabra[:3])
 print(palabra[-3:])
-print(palabra[::2])
+print(palabra[::3])
 
 #Ejercicio 5
 #Conversión de tipos y evaluación booleana
@@ -126,6 +120,3 @@ print(bool(0))
 print(bool(1))
 print(bool(-1))
 print(bool(None))
-
-
-
