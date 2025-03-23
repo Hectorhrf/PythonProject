@@ -3,7 +3,7 @@
 #edad y si está registrado (booleano).
 
 persona = {
-    "nombre" : "Bruno",
+    "nombre" : "Hector",
     "edad" : 19,
     "registradoEnElCenso" : True
 }
